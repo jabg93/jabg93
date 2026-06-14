@@ -7,7 +7,7 @@ Currently leading the architecture of a Snowflake-based analytics platform
 in fintech, evolving it toward a Generative BI ecosystem with conversational
 agents, structured LLM outputs, and Snowflake Cortex.
 
-🌎 Based in Mexico City · Open to remote opportunities (US/Canada/LATAM)
+🌎 Based in Cancun, Mexico · Open to remote opportunities (US/LATAM)
 
 ---
 
@@ -25,11 +25,6 @@ agents, structured LLM outputs, and Snowflake Cortex.
 🏗️ **[Vancouver Building Permits Pipeline](https://github.com/jabg93/van-building-permits-pipeline)**  
 End-to-end ELT pipeline ingesting public API data into PostgreSQL with Airflow,
 transforming with dbt, and modeling for analytics — fully containerized with Docker.
-
-🤖 **Conversational Analytics Agent** *(in progress)*  
-Open-source Generative BI agent that converts natural-language questions into
-validated SQL, executes against an embedded warehouse, and renders auto-selected
-visualizations — a lightweight alternative to Snowflake Cortex Analyst.
 
 ---
 
