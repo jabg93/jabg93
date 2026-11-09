@@ -7,7 +7,7 @@ Currently leading the architecture of a Snowflake-based analytics platform
 in fintech, evolving it toward a Generative BI ecosystem with conversational
 agents, structured LLM outputs, and Snowflake Cortex.
 
-🌎 Based in Cancun, Mexico · Open to remote opportunities (US/LATAM)
+🌎 Based in Queretaro, Mexico · Open to remote opportunities (US/LATAM)
 
 ---
 
@@ -30,7 +30,7 @@ transforming with dbt, and modeling for analytics — fully containerized with D
 
 #### A bit more
 
-I've spent 9+ years designing analytics systems across fintech, manufacturing,
+I've spent 10+ years designing analytics systems across fintech, manufacturing,
 and enterprise — from leading analytics engineering teams to building cloud-native
 warehouses from scratch. I care about clean data models, fast feedback loops,
 and analytics that actually get used.
